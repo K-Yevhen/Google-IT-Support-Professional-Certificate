@@ -38,3 +38,17 @@ This program is designed to take beginner learners to job readiness in about thr
 - Network Architecture
 
 - Package and Software Management
+
+### Courses of Specialisation 
+
+#### Course 1: Technical Support Fundamentals
+
+#### Course 2: The Bits and Bytes of Computer Networking
+
+#### Course 3: Operating Systems and You: Becoming a Power User
+
+#### Course 4: System Administration and IT Infrastructure Services
+
+#### Course 5: IT Security: Defense against the digital dark arts
+
+#### Course 6:Accelerate Your Job Search with AI
